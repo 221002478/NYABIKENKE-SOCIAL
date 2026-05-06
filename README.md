@@ -152,7 +152,7 @@ body { font-family: Arial, sans-serif; }
 </div>
 
 <!-- WHATSAPP BUTTON -->
-<a href="https://wa.me/2507XXXXXXXX" class="btn btn-success btn-whatsapp">Chat on WhatsApp</a>
+<a href="https://wa.me/250780375475" class="btn btn-success btn-whatsapp">Chat on WhatsApp</a>
 
 <script>
 function submitForm(e){
